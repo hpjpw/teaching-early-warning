@@ -1,0 +1,3392 @@
+[
+ {
+  "id": "1",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "2",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "3",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "4",
+  "knowledge": "2",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "5",
+  "knowledge": "2",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "6",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "7",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "8",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "9",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "10",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "11",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "12",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "13",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "14",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "15",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "16",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "17",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "18",
+  "knowledge": "7",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "19",
+  "knowledge": "4",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "20",
+  "knowledge": "4",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "21",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "22",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "23",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "24",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "25",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "26",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "27",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "28",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "29",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "30",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "31",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "32",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "33",
+  "knowledge": "8",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "34",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "35",
+  "knowledge": "20,21",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "36",
+  "knowledge": "21",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "37",
+  "knowledge": "19,21,11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "38",
+  "knowledge": "21",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "39",
+  "knowledge": "15",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "40",
+  "knowledge": "9",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "41",
+  "knowledge": "10,12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "42",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "43",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "44",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "45",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "46",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "47",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "48",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "49",
+  "knowledge": "13",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "50",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "51",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "52",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "53",
+  "knowledge": "17",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "54",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "55",
+  "knowledge": "17",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "56",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "57",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "58",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "59",
+  "knowledge": "17",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "60",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "61",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "62",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "63",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "64",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "65",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "66",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "67",
+  "knowledge": "30,31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "68",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "69",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "70",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "71",
+  "knowledge": "5,14",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "72",
+  "knowledge": "14",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "73",
+  "knowledge": "5",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "74",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "75",
+  "knowledge": "23",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "76",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "77",
+  "knowledge": "22,19",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "78",
+  "knowledge": "5",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "79",
+  "knowledge": "22,19",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "80",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "81",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "82",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "83",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "84",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "85",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "86",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "87",
+  "knowledge": "37,39",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "88",
+  "knowledge": "39",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "89",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "90",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "91",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "92",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "93",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "94",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "95",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "96",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "97",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "98",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "99",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "100",
+  "knowledge": "29",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "101",
+  "knowledge": "24",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "102",
+  "knowledge": "26",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "103",
+  "knowledge": "24",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "104",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "105",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "106",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "107",
+  "knowledge": "26",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "108",
+  "knowledge": "25",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "109",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "110",
+  "knowledge": "24",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "111",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "112",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "113",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "114",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "115",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "116",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "117",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "118",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "119",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "120",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "121",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "122",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "123",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "124",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "125",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "126",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "127",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "128",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "129",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "130",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "131",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "132",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "133",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "134",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "135",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "136",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "137",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "138",
+  "knowledge": "7",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "139",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "140",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "141",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "142",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "143",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "144",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "145",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "146",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "147",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "148",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "149",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "150",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "151",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "152",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "153",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "154",
+  "knowledge": "15",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "155",
+  "knowledge": "21",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "156",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "157",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "158",
+  "knowledge": "20,21",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "159",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "160",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "161",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "162",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "163",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "164",
+  "knowledge": "10",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "165",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "166",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "167",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "168",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "169",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "170",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "171",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "172",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "173",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "174",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "175",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "176",
+  "knowledge": "17",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "177",
+  "knowledge": "18",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "178",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "179",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "180",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "181",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "182",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "183",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "184",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "185",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "186",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "187",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "188",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "189",
+  "knowledge": "32",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "190",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "191",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "192",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "193",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "194",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "195",
+  "knowledge": "23",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "196",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "197",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "198",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "199",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "200",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "201",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "202",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "203",
+  "knowledge": "36",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "204",
+  "knowledge": "35,36",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "205",
+  "knowledge": "35,36",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "206",
+  "knowledge": "36",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "207",
+  "knowledge": "36,37,39",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "208",
+  "knowledge": "38",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "209",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "210",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "211",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "212",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "213",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "214",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "215",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "216",
+  "knowledge": "28",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "217",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "218",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "219",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "220",
+  "knowledge": "28",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "221",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "222",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "223",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "224",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "225",
+  "knowledge": "25",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "226",
+  "knowledge": "25",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "227",
+  "knowledge": "26",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "228",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "229",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "230",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "231",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "232",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "233",
+  "knowledge": "34",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "234",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "235",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "236",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "237",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "238",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "239",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "240",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "241",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "242",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "243",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "244",
+  "knowledge": "2",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "245",
+  "knowledge": "11",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "246",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "247",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "248",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "249",
+  "knowledge": "9",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "250",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "251",
+  "knowledge": "4",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "252",
+  "knowledge": "4",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "253",
+  "knowledge": "4",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "254",
+  "knowledge": "9",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "255",
+  "knowledge": "8",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "256",
+  "knowledge": "9",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "257",
+  "knowledge": "11",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "258",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "259",
+  "knowledge": "12",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "260",
+  "knowledge": "26",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "261",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "262",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "263",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "264",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "265",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "266",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "267",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "268",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "269",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "270",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "271",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "272",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "273",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "274",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "275",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "276",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "277",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "278",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "279",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "280",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "281",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "282",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "283",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "284",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "285",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "286",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "287",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "288",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "289",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "290",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "291",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "292",
+  "knowledge": "16",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "293",
+  "knowledge": "14",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "294",
+  "knowledge": "14",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "295",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "296",
+  "knowledge": "14",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "297",
+  "knowledge": "16",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "298",
+  "knowledge": "14",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "299",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "300",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "301",
+  "knowledge": "10,12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "302",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "303",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "304",
+  "knowledge": "11,9",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "305",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "306",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "307",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "308",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "309",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "310",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "311",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "312",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "313",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "314",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "315",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "316",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "317",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "318",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "319",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "320",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "321",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "322",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "323",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "324",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "325",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "326",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "327",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "328",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "329",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "330",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "331",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "332",
+  "knowledge": "5",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "333",
+  "knowledge": "5",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "334",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "335",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "336",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "337",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "338",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "339",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "340",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "341",
+  "knowledge": "36",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "342",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "343",
+  "knowledge": "36",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "344",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "345",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "346",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "347",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "348",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "349",
+  "knowledge": "36",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "350",
+  "knowledge": "37",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "351",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "352",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "353",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "354",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "355",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "356",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "357",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "358",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "359",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "360",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "361",
+  "knowledge": "25",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "362",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "363",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "364",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "365",
+  "knowledge": "25",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "366",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "367",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "368",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "369",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "370",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "371",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "372",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "373",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "374",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "375",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "376",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "377",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "378",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "379",
+  "knowledge": "34,33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "380",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "381",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "382",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "383",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "384",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "385",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "386",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "387",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "388",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "389",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "390",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "391",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "392",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "393",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "394",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "395",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "396",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "397",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "398",
+  "knowledge": "3",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "399",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "400",
+  "knowledge": "7",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "401",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "402",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "403",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "404",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "405",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "406",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "407",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "408",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "409",
+  "knowledge": "6",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "410",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "411",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "412",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "413",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "414",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "415",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "416",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "417",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "418",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "419",
+  "knowledge": "1",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "420",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "421",
+  "knowledge": "19",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "422",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "423",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "424",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "425",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "426",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "427",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "428",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "429",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "430",
+  "knowledge": "10,12",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "431",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "432",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "433",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "434",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "435",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "436",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "437",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "438",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "439",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "440",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "441",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "442",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "443",
+  "knowledge": "32",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "444",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "445",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "446",
+  "knowledge": "32,21",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "447",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "448",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "449",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "450",
+  "knowledge": "31",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "451",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "452",
+  "knowledge": "5",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "453",
+  "knowledge": "5",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "454",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "455",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "456",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "457",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "458",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "459",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "460",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "461",
+  "knowledge": "37",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "462",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "463",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "464",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "465",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "466",
+  "knowledge": "35",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "467",
+  "knowledge": "36",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "468",
+  "knowledge": "38",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "469",
+  "knowledge": "40",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "470",
+  "knowledge": "40",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "471",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "472",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "473",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "474",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "475",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "476",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "477",
+  "knowledge": "27,4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "478",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "479",
+  "knowledge": "29",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "480",
+  "knowledge": "28",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "481",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "482",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "483",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "484",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "485",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "486",
+  "knowledge": "25",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "487",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "488",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "489",
+  "knowledge": "25",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "490",
+  "knowledge": "25",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "491",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "492",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "493",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "494",
+  "knowledge": "33",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "495",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "496",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "497",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "498",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "499",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "500",
+  "knowledge": "34",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "501",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "502",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "503",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "504",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "505",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "506",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "507",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "508",
+  "knowledge": "13",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "509",
+  "knowledge": "18",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "510",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "511",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "512",
+  "knowledge": "26",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "513",
+  "knowledge": "39",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "514",
+  "knowledge": "10",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "515",
+  "knowledge": "9",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "516",
+  "knowledge": "16",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "517",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "518",
+  "knowledge": "41",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "519",
+  "knowledge": "41",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "520",
+  "knowledge": "41",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "521",
+  "knowledge": "42",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "522",
+  "knowledge": "41",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "523",
+  "knowledge": "41",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "524",
+  "knowledge": "42",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "525",
+  "knowledge": "41",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "526",
+  "knowledge": "22,3",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "527",
+  "knowledge": "11,21",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "528",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "529",
+  "knowledge": "11",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "530",
+  "knowledge": "6",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "531",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "532",
+  "knowledge": "4",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "533",
+  "knowledge": "3",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "534",
+  "knowledge": "10",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "535",
+  "knowledge": "22",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "536",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "537",
+  "knowledge": "27",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "538",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "539",
+  "knowledge": "10,13",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "540",
+  "knowledge": "14",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "541",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "542",
+  "knowledge": "24",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "543",
+  "knowledge": "36",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "544",
+  "knowledge": "22",
+  "question_type": "1",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "545",
+  "knowledge": "23",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "546",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "547",
+  "knowledge": "9",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "548",
+  "knowledge": "8",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "549",
+  "knowledge": "17",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "550",
+  "knowledge": "30",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "551",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "552",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "553",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "554",
+  "knowledge": "10",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "555",
+  "knowledge": "12",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "556",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "557",
+  "knowledge": "2",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "558",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "559",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "560",
+  "knowledge": "15",
+  "question_type": "0",
+  "difficulty_level": "1"
+ },
+ {
+  "id": "561",
+  "knowledge": "9",
+  "question_type": "1",
+  "difficulty_level": "3"
+ },
+ {
+  "id": "562",
+  "knowledge": "10",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "563",
+  "knowledge": "41,42",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "564",
+  "knowledge": "8",
+  "question_type": "1",
+  "difficulty_level": "2"
+ },
+ {
+  "id": "565",
+  "knowledge": "42",
+  "question_type": "1",
+  "difficulty_level": "2"
+ }
+]
